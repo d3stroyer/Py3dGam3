@@ -1,3 +1,3 @@
 # Py3dGam3
 
-![alt tag](https://raw.githubusercontent.com/kneefer/CircleShooter/master/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/d3stroyer/Py3dGam3/master/gameScreenshot.png)
